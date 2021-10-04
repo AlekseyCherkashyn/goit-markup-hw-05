@@ -1,3 +1,6 @@
+**Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md),
+[English](README.en.md).**
+
 # Домашнее задание
 
 - Создай репозиторий `goit-markup-hw-05`.
